@@ -1,7 +1,8 @@
 # ignore vagrant
 .vagrant
+.vagrant/
 .vagrant/*
-
+*.vagrant/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
